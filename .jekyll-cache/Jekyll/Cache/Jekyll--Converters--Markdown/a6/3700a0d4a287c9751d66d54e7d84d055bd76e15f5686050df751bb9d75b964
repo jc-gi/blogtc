@@ -1,0 +1,17 @@
+I"«<h2 id="about">About</h2>
+<p>Course description:</p>
+<p></p>
+<p>Introduces the foundations of automata theory, computability theory, and complexity theory. Shows relationship between automata and formal languages. Addresses the issue of which problems can be solved by computational means (decidability vs undecidability), and Introduces concepts related to computational complexity of problems.</p>
+
+<p><small>
+    Requisites:
+    Discrete Structures / Discrete Mathematics
+    Undergraduate Algorithms
+</small></p>
+
+<p>Support the repo by starring or forking it!</p>
+
+<iframe src="https://ghbtns.com/github-btn.html?user=jc-gi&amp;repo=tc&amp;type=star&amp;count=true&amp;size=large" frameborder="0" scrolling="0" width="160px" height="30px"></iframe>
+
+<iframe src="https://ghbtns.com/github-btn.html?user=jc-gi&amp;repo=tc&amp;type=fork&amp;count=true&amp;size=large" frameborder="0" scrolling="0" width="160px" height="30px"></iframe>
+:ET
