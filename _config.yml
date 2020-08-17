@@ -13,7 +13,7 @@ url: "https://jc-gi.github.io"
 # NB! Without this *nothing* will work, because it's used in every path :)
 
 baseurl: 
-intro
+
 # Google tracking id
 
 google-tracking-id: ""
@@ -39,10 +39,10 @@ favicon: "/img/favicon.ico"
 # Header layout #
 ################
 
-black-favicon: "/img/black-lab-glass.ico"
+black-favicon: "/img/faviconb/favicon64x64.ico"
 logo: "/img/author.png" # leave blank if you don't want a logo
 
-background-img: "../img/profile.jpg"
+background-img: "../img/original.png"
 
 ##############################
 # Dynamic Text on the Header #
